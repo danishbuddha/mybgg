@@ -3,14 +3,14 @@
         "name": "mybgg"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "danishbuddha",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME"
+        "app_id": "PM7F246EUX",
+        "api_key_search_only": "0a8d50933be1988043a11cb3a2a0b490",
+        "index_name": "papsamling"
     }
 }
